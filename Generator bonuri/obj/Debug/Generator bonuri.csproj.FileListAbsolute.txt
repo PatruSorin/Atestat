@@ -1,0 +1,19 @@
+C:\Users\MARIAN\AppData\Local\Temporary Projects\Generator bonuri\bin\Debug\Generator bonuri.exe
+C:\Users\MARIAN\AppData\Local\Temporary Projects\Generator bonuri\bin\Debug\Generator bonuri.pdb
+C:\Users\MARIAN\AppData\Local\Temporary Projects\Generator bonuri\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MARIAN\AppData\Local\Temporary Projects\Generator bonuri\obj\Debug\Generator_bonuri.Form1.resources
+C:\Users\MARIAN\AppData\Local\Temporary Projects\Generator bonuri\obj\Debug\Generator_bonuri.Properties.Resources.resources
+C:\Users\MARIAN\AppData\Local\Temporary Projects\Generator bonuri\obj\Debug\Generator bonuri.csproj.GenerateResource.Cache
+C:\Users\MARIAN\AppData\Local\Temporary Projects\Generator bonuri\obj\Debug\Generator bonuri.exe
+C:\Users\MARIAN\AppData\Local\Temporary Projects\Generator bonuri\obj\Debug\Generator bonuri.pdb
+C:\Users\MARIAN\Desktop\Generator bonuri\Generator bonuri\obj\Debug\Generator bonuri.exe
+C:\Users\MARIAN\Desktop\Generator bonuri\Generator bonuri\obj\Debug\Generator bonuri.pdb
+C:\Users\MARIAN\Desktop\Generator bonuri\Generator bonuri\bin\Debug\Generator bonuri.exe
+C:\Users\MARIAN\Desktop\Generator bonuri\Generator bonuri\bin\Debug\Generator bonuri.pdb
+C:\Users\MARIAN\Desktop\Generator bonuri\Generator bonuri\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\MARIAN\Desktop\Generator bonuri\Generator bonuri\obj\Debug\Generator_bonuri.Form1.resources
+C:\Users\MARIAN\Desktop\Generator bonuri\Generator bonuri\obj\Debug\Generator_bonuri.Properties.Resources.resources
+C:\Users\MARIAN\Desktop\Generator bonuri\Generator bonuri\obj\Debug\Generator bonuri.csproj.GenerateResource.Cache
+C:\Users\MARIAN\Desktop\Generator bonuri\Generator bonuri\obj\Debug\Generator_bonuri.Form2.resources
+C:\Users\SORIN\Desktop\Generator bonuri\Generator bonuri\obj\Debug\Generator bonuri.exe
+C:\Users\SORIN\Desktop\Generator bonuri\Generator bonuri\obj\Debug\Generator bonuri.pdb
